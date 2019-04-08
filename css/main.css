@@ -10,9 +10,12 @@ body {
 }
 #box2 {
     background-color: red;
+    float: left;
 }
 #box3 {
     background-color: blue;
+    clear; both;
+    float; left;
 }
 #box4 {
     background-color: yellow;
