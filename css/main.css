@@ -29,3 +29,8 @@ body {
 .fullborder{
         border: black solid thin;
 }
+
+#wrapper{
+    width: 960px;
+    
+}
