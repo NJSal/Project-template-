@@ -14,8 +14,8 @@ body {
 }
 #box3 {
     background-color: blue;
-    clear; both;
-    float; left;
+    clear: both;
+    float: left;
 }
 #box4 {
     background-color: yellow;
@@ -24,4 +24,8 @@ body {
 .box{
     width : 100px;
     height : 100px;
+}
+
+.fullborder{
+        border: black solid thin;
 }
